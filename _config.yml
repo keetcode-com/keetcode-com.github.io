@@ -18,11 +18,11 @@ disqus_account: jeky-new-age
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
   - title: twitter
-    url: https://twitter.com/lantoniotrento
+    url: https://twitter.com/keetcode
   - title: facebook
-    url: https://facebook.com/lantoniotrento
+    url: https://facebook.com/keet.code.3
   - title: google-plus
-    url: https://plus.google.com/+AntoniotrentoIt
+    url: https://plus.google.com/+keetcode
   #- title: github
   #  url: http://github.com/jekyll
 
