@@ -1,5 +1,5 @@
 # Site settings
-title: keet code
+title: keetcode
 email:
 description: A keetcode template for landing pages, portfolio and blogging
 
@@ -21,10 +21,12 @@ social:
     url: https://twitter.com/keetcode
   - title: facebook
     url: https://facebook.com/keet.code.3
-  - title: google-plus
-    url: https://plus.google.com/+keetcode
+  #- title: google-plus
+  #  url: https://plus.google.com/+keetcode
   #- title: github
-  #  url: http://github.com/jekyll
+  #  url: http://github.com/keetcode-com
+  - title: whatsapp
+    url: https://api.whatsapp.com/send?phone=+529671184240&text=Hola
 
 # Build settings
 markdown: kramdown
