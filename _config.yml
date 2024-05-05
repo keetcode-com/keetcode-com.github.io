@@ -25,8 +25,8 @@ social:
   #  url: https://plus.google.com/+keetcode
   #- title: github
   #  url: http://github.com/keetcode-com
-  - title: whatsapp
-    url: https://api.whatsapp.com/send?phone=+529671184240&text=Hola
+  #- title: whatsapp
+  #  url: https://api.whatsapp.com/send?phone=+529671184240&text=Hola
 
 # Build settings
 markdown: kramdown
